@@ -1,0 +1,14 @@
+C:\Door\Новая папка (2)\Проги\5pr\5pr\bin\Debug\5pr.exe.config
+C:\Door\Новая папка (2)\Проги\5pr\5pr\bin\Debug\5pr.exe
+C:\Door\Новая папка (2)\Проги\5pr\5pr\bin\Debug\5pr.pdb
+C:\Door\Новая папка (2)\Проги\5pr\5pr\obj\Debug\1zd.csprojAssemblyReference.cache
+C:\Door\Новая папка (2)\Проги\5pr\5pr\obj\Debug\5pr.exe
+C:\Door\Новая папка (2)\Проги\5pr\5pr\obj\Debug\5pr.pdb
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\5pr\5pr\bin\Debug\5pr.exe.config
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\5pr\5pr\bin\Debug\5pr.exe
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\5pr\5pr\bin\Debug\5pr.pdb
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\5pr\5pr\obj\Debug\1zd.csproj.AssemblyReference.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\5pr\5pr\obj\Debug\1zd.csproj.SuggestedBindingRedirects.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\5pr\5pr\obj\Debug\1zd.csproj.CoreCompileInputs.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\5pr\5pr\obj\Debug\5pr.exe
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\5pr\5pr\obj\Debug\5pr.pdb
