@@ -1,0 +1,15 @@
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\bin\Debug\net6.0\7Методы.exe
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\bin\Debug\net6.0\7Методы.deps.json
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\bin\Debug\net6.0\7Методы.runtimeconfig.json
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\bin\Debug\net6.0\7Методы.dll
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\bin\Debug\net6.0\7Методы.pdb
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\7Методы.csproj.AssemblyReference.cache
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\7Методы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\7Методы.AssemblyInfoInputs.cache
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\7Методы.AssemblyInfo.cs
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\7Методы.csproj.CoreCompileInputs.cache
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\7Методы.dll
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\refint\7Методы.dll
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\7Методы.pdb
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\7Методы.genruntimeconfig.cache
+C:\Users\Костя2003\Desktop\ki-main\7Методы\7Методы\obj\Debug\net6.0\ref\7Методы.dll
