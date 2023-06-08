@@ -1,0 +1,8 @@
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\4pr\4pr\bin\Debug\4pr.exe.config
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\4pr\4pr\bin\Debug\4pr.exe
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\4pr\4pr\bin\Debug\4pr.pdb
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\4pr\4pr\obj\Debug\1zd.csproj.AssemblyReference.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\4pr\4pr\obj\Debug\1zd.csproj.SuggestedBindingRedirects.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\4pr\4pr\obj\Debug\1zd.csproj.CoreCompileInputs.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\4pr\4pr\obj\Debug\4pr.exe
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\4pr\4pr\obj\Debug\4pr.pdb
